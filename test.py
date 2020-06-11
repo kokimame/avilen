@@ -1,6 +1,6 @@
 import csv
 
-# Read .txt file. Use the CSV module to do automatically quickly
+# Read .txt file. Use the CSV module to do stripping automatically
 with open('input.txt', 'r') as f:
     lines = [line[0] for line in csv.reader(f)]
 
