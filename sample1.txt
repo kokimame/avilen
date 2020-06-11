@@ -1,0 +1,5 @@
+5:buzz
+3:fizz
+8:hoge
+2:huga
+24
